@@ -1,4 +1,4 @@
-import telebot
+import telebot #проверяю
 from os import getenv
 from dotenv import load_dotenv
 import handlers 
