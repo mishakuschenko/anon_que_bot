@@ -9,5 +9,5 @@ Hi! This telegram bot is designed for anonymous messaging. No data collection, n
 <h3 style="margin-left: 20px;">
 Link: not ready yet<br>
 Version: in development<br>
-Language: Python 3.12.7, telebot.<br>
+Language: Python 3.12.7, aiogram3.<br>
 </h3>
